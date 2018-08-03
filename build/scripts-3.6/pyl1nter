@@ -1,0 +1,5 @@
+#!python
+
+import sys
+from pyl1nter import app
+app.main(sys.argv[1:])
